@@ -1,2 +1,3 @@
 alpine
 infiniflow/ragflow:v0.17.2
+python:alpine3.19
